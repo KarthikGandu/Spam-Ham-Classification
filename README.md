@@ -1,5 +1,4 @@
 # Spam-Ham-Classification
- # What is Spam and Ham..?
   People tend to be much less bothered by spam slipping through filters into their mail box (false
     negatives), than having desired email (“ham”) blocked (false positives). Trying to balance false negatives
     (missed spam) vs. false positives (rejecting good email) is critical for a successful anti-spam system.
